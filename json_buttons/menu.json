@@ -1,0 +1,76 @@
+{
+   "one_time":false,
+   "buttons":[
+      [
+         {
+            "action":{
+               "type":"text",
+               "payload":"{\"button\": \"1\"}",
+               "label":"Приемная комиссия 2022"
+            },
+            "color":"primary"
+         }
+      ],
+   [
+         {
+            "action":{
+               "type":"text",
+               "payload":"{\"button\": \"2\"}",
+               "label":"О факультете(-ах)"
+            },
+            "color":"secondary"
+         }
+   ],
+     [
+         {
+            "action":{
+               "type":"text",
+               "payload":"{\"button\": \"2\"}",
+               "label":"Часто задаваемые вопросы"
+            },
+            "color":"primary"
+         }
+     ],
+     [
+         {
+            "action":{
+               "type":"text",
+               "payload":"{\"button\": \"2\"}",
+               "label":"С кем пообщаться"
+            },
+            "color":"secondary"
+         }
+     ],
+          [
+         {
+            "action":{
+               "type":"text",
+               "payload":"{\"button\": \"2\"}",
+               "label":"Отзывы старшекурсников"
+            },
+            "color":"primary"
+         }
+     ],
+          [
+         {
+            "action":{
+               "type":"text",
+               "payload":"{\"button\": \"2\"}",
+               "label":"Найти куратора"
+            },
+            "color":"secondary"
+         }
+     ],
+     [
+         {
+            "action":{
+               "type":"text",
+               "payload":"{\"button\": \"2\"}",
+               "label":"Памятка первокурсника"
+            },
+            "color":"primary"
+         }
+     ]
+      ]
+
+}
